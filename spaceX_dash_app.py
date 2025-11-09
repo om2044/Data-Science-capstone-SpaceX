@@ -70,4 +70,4 @@ def update_scatter_chart(entered_site, payload_range):
     return fig
 
 if __name__ == '__main__':
-    app.run_server(port=5000)
+    app.run_server(port=5001)
